@@ -1,5 +1,10 @@
-# odin-recipes
-TOP Recipes Lesson
-I have Created a Repo Using my Local Device. 
-I generated an SSH Key and linked it to my GITHub Account. 
-Used CLI more effectively and Learned new CLI's 
+Recipe Page ⭐️
+Create a recipe page to showcase basic HTML & CSS.
+
+Thoughts 💭
+This was the very first assignment with the updated Odin Project curriculum. I learned how to fill out the HTML boilerplate, create directory and files, navigate through the terminal, input headers, paragraphs, images, and links. Alongside, I was able to create ordered and unordered lists for my recipes. Most importantly, I was able to organize "beginner friendly" clean code so it is readable and understandable to any viewer.
+
+Tech Used 💻
+Built with
+
+HTML
